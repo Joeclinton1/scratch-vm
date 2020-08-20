@@ -10,7 +10,7 @@
         "include": ["src"]
     },
     "opts": {
-        "destination": "playground/docs",
+        "destination": "docs",
         "pedantic": true,
         "private": true,
         "readme": "README.md",
